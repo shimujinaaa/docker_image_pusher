@@ -3,5 +3,6 @@ nginx
 seleniarm/standalone-chromium
 fancybits/chromium-armv7l
 ich777/firefox
+ich777/firefox:armv7
 #支持指定架构
 --platform=linux/arm/v7 seleniarm/standalone-chromium:121.0
