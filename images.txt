@@ -1,6 +1,6 @@
 nginx
 #支持私库
 seleniarm/standalone-chromium
-torizon/chromium
+fancybits/chromium-armv7l
 #支持指定架构
 --platform=linux/arm/v7 seleniarm/standalone-chromium:121.0
