@@ -6,4 +6,4 @@ ich777/firefox
 ich777/firefox:armv7
 gdy666/lucky
 #支持指定架构
---platform=linux/arm/v7 seleniarm/standalone-chromium:121.0
+--platform=linux/arm64 gdy666/lucky
