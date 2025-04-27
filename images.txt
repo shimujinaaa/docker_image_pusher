@@ -7,4 +7,4 @@ ich777/firefox:armv7
 gdy666/lucky
 xhofe/alist
 #支持指定架构
---platform=linux/arm64 xhofe/alist
+--platform=linux/arm/v6 xhofe/alist
