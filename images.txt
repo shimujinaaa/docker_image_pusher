@@ -1,12 +1,8 @@
 nginx
 #支持私库
-seleniarm/standalone-chromium
-fancybits/chromium-armv7l
-ich777/firefox
 ich777/firefox:armv7
 gdy666/lucky
-xhofe/alist
-openlistteam/openlist
+openlistteam/openlist:beta-aio
 #支持指定架构
 --platform=linux/arm/v6 xhofe/alist
---platform=linux/arm/v6 openlistteam/openlist
+--platform=linux/arm/v6 openlistteam/openlist:beta-aio
