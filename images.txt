@@ -6,5 +6,7 @@ ich777/firefox
 ich777/firefox:armv7
 gdy666/lucky
 xhofe/alist
+openlistteam/openlist
 #支持指定架构
 --platform=linux/arm/v6 xhofe/alist
+--platform=linux/arm/v6 openlistteam/openlist
