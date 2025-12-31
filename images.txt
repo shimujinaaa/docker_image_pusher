@@ -7,8 +7,10 @@ xuanaimai/onecloud:21-09-15
 gists/qbittorrent:4.3.9
 johngong/qbittorrent
 superng6/qbittorrent
+linuxserver/qbittorrent
 #支持指定架构
 --platform=linux/arm/v6 xhofe/alist
 --platform=linux/arm/v6 openlistteam/openlist:beta-aio
 --platform=linux/arm/v6 gists/qbittorrent:4.3.9
 --platform=linux/arm64 superng6/qbittorrent
+--platform=linux/arm64linuxserver/qbittorrent
