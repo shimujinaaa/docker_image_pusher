@@ -4,6 +4,8 @@ ich777/firefox:armv7
 gdy666/lucky
 openlistteam/openlist:beta-aio
 xuanaimai/onecloud:21-09-15
+nevinee/qbittorrent
 #支持指定架构
 --platform=linux/arm/v6 xhofe/alist
 --platform=linux/arm/v6 openlistteam/openlist:beta-aio
+--platform=linux/arm/v6 nevinee/qbittorrent
