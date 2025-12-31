@@ -11,4 +11,4 @@ superng6/qbittorrent
 --platform=linux/arm/v6 xhofe/alist
 --platform=linux/arm/v6 openlistteam/openlist:beta-aio
 --platform=linux/arm/v6 gists/qbittorrent:4.3.9
---platform=linux/arm/v7 superng6/qbittorrent
+--platform=linux/arm64 superng6/qbittorrent
